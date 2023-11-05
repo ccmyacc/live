@@ -50,7 +50,7 @@ http://192.168.0.1:1270/udp/239.77.1.98:5146
 http://192.168.0.1:1270/udp/239.77.0.198:5146
 
 #EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV4k.png"
-http://192.168.0.1:1270/udp/239.77.0.174:5146
+http://192.168.0.1:1270/udp/239.77.0.194:5146
 
 #EXTINF:-1 tvg-id="022" tvg-name="世界地理" tvg-logo="https://i.imgloc.com/2023/05/20/VyRiy5.png"
 http://192.168.0.1:1270/udp/239.253.43.24:5146
