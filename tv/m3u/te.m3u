@@ -268,8 +268,8 @@ http://192.168.0.1:1270/udp/239.253.43.114:5146
 #EXTINF:-1 tvg-id="150" tvg-name="经济科教" tvg-logo="-"
 http://192.168.0.1:1270/udp/239.77.0.167:5146
 
-#EXTINF:-1 tvg-id="151" tvg-name="广东体育" tvg-logo="-"
-http://192.168.0.1:1270/udp/239.77.0.168:5146
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/广东体育.png"
+http://192.168.0.1:1270/udp/239.77.0.112:5146
 
 #EXTINF:-1 tvg-id="152" tvg-name="广东影视" tvg-logo="-"
 http://192.168.0.1:1270/udp/239.77.0.217:5146
