@@ -1,56 +1,56 @@
-#EXTINF:-1 tvg-id="001" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV1.png"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV1.png"
 http://192.168.0.1:1270/udp/239.77.0.129:5146
 
-#EXTINF:-1 tvg-id="002" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV2.png"
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV2.png"
 http://192.168.0.1:1270/udp/239.77.0.137:5146
 
-#EXTINF:-1 tvg-id="003" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV3.png"
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV3.png"
 http://192.168.0.1:1270/udp/239.77.0.169:5146
 
-#EXTINF:-1 tvg-id="004" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV4.png"
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV4.png"
 http://192.168.0.1:1270/udp/239.77.0.78:5146
 
-#EXTINF:-1 tvg-id="005" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV5.png"
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV5.png"
 http://192.168.0.1:1270/udp/239.77.0.170:5146
 
-#EXTINF:-1 tvg-id="006" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV6.png"
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV6.png"
 http://192.168.0.1:1270/udp/239.77.0.171:5146
 
-#EXTINF:-1 tvg-id="007" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV7.png"
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV7.png"
 http://192.168.0.1:1270/udp/239.77.0.138:5146
 
-#EXTINF:-1 tvg-id="008" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV8.png"
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV8.png"
 http://192.168.0.1:1270/udp/239.77.0.172:5146
 
-#EXTINF:-1 tvg-id="009" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV9.png"
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV9.png"
 http://192.168.0.1:1270/udp/239.77.0.135:5146
 
-#EXTINF:-1 tvg-id="010" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV10.png"
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV10.png"
 http://192.168.0.1:1270/udp/239.77.0.134:5146
 
-#EXTINF:-1 tvg-id="011" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV11.png"
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV11.png"
 http://192.168.0.1:1270/udp/239.77.1.238:5146
 
-#EXTINF:-1 tvg-id="012" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV12.png"
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV12.png"
 http://192.168.0.1:1270/udp/239.77.0.136:5146
 
-#EXTINF:-1 tvg-id="013" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV13.png"
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV13.png"
 http://192.168.0.1:1270/udp/239.77.0.188:5146
 
-#EXTINF:-1 tvg-id="014" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV14.png"
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV14.png"
 http://192.168.0.1:1270/udp/239.77.0.133:5146
 
-#EXTINF:-1 tvg-id="015" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV15.png"
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV15.png"
 http://192.168.0.1:1270/udp/239.77.1.239:5146
 
-#EXTINF:-1 tvg-id="016" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV16.png"
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV16.png"
 http://192.168.0.1:1270/udp/239.77.1.98:5146
 
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV17.png"
 http://192.168.0.1:1270/udp/239.77.0.198:5146
 
 #EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/CCTV4k.png"
-http://192.168.0.1:1270/udp/239.77.0.194:5146
+http://192.168.0.1:1270/udp/239.77.0.174:5146
 
 #EXTINF:-1 tvg-id="022" tvg-name="世界地理" tvg-logo="https://i.imgloc.com/2023/05/20/VyRiy5.png"
 http://192.168.0.1:1270/udp/239.253.43.24:5146
@@ -330,3 +330,4 @@ http://192.168.0.1:1270/udp/239.77.1.207:5146
 
 #EXTINF:-1 tvg-id="181" tvg-name="快乐垂钓" tvg-logo="-"
 http://192.168.0.1:1270/udp/239.77.1.119:5146
+
