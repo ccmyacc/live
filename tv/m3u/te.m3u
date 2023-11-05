@@ -58,254 +58,116 @@ http://192.168.0.1:1270/udp/239.77.1.98:5146
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/广东体育.png"
 http://192.168.0.1:1270/udp/239.77.0.112:5146
 
-#EXTINF:-1 tvg-id="022" tvg-name="世界地理" tvg-logo="https://i.imgloc.com/2023/05/20/VyRiy5.png"
+#EXTINF:-1 tvg-id="022" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/世界地理.png"
 http://192.168.0.1:1270/udp/239.253.43.24:5146
 
-#EXTINF:-1 tvg-id="023" tvg-name="怀旧剧场" tvg-logo="https://i.imgloc.com/2023/05/20/Vy3Ytv.png"
+#EXTINF:-1 tvg-id="023" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/怀旧剧场.png"
 http://192.168.0.1:1270/udp/239.253.43.25:5146
 
-#EXTINF:-1 tvg-id="024" tvg-name="风云剧场" tvg-logo="https://i.imgloc.com/2023/05/20/Vy3Mqk.png"
+#EXTINF:-1 tvg-id="024" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/风云剧场.png"
 http://192.168.0.1:1270/udp/239.253.43.26:5146
 
-#EXTINF:-1 tvg-id="025" tvg-name="第一剧场" tvg-logo="https://i.imgloc.com/2023/05/20/Vy3LGx.png"
+#EXTINF:-1 tvg-id="025" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/第一剧场.png"
 http://192.168.0.1:1270/udp/239.253.43.28:5146
 
-#EXTINF:-1 tvg-id="026" tvg-name="风云音乐" tvg-logo="https://i.imgloc.com/2023/05/20/Vy3TwL.png"
+#EXTINF:-1 tvg-id="026" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/风云音乐.png"
 http://192.168.0.1:1270/udp/239.253.43.29:5146
 
-#EXTINF:-1 tvg-id="027" tvg-name="兵器科技" tvg-logo="https://i.imgloc.com/2023/05/20/Vy3vsz.png"
+#EXTINF:-1 tvg-id="027" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/兵器科技.png"
 http://192.168.0.1:1270/udp/239.253.43.18:5146
 
-#EXTINF:-1 tvg-id="029" tvg-name="风云足球" tvg-logo="https://i.imgloc.com/2023/05/20/Vy3a7p.png"
+#EXTINF:-1 tvg-id="029" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/风云足球.png"
 http://192.168.0.1:1270/udp/239.253.43.20:5146
 
-#EXTINF:-1 tvg-id="050" tvg-name="广东卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vyc4rz.png"
+#EXTINF:-1 tvg-id="050" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/广东卫视.png"
 http://192.168.0.1:1270/udp/239.77.0.166:5146
 
-#EXTINF:-1 tvg-id="051" tvg-name="广东卫视4K" tvg-logo="https://i.imgloc.com/2023/05/20/VyPKLk.jpeg"
+#EXTINF:-1 tvg-id="051" tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/广东卫视.png"
 http://192.168.0.1:1270/udp/239.77.0.246:5146
 
-#EXTINF:-1 tvg-id="052" tvg-name="广东珠江" tvg-logo="https://i.imgloc.com/2023/05/20/Vypoex.png"
+#EXTINF:-1 tvg-id="052" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/广东珠江.png"
 http://192.168.0.1:1270/udp/239.77.0.114:5146
 
-#EXTINF:-1 tvg-id="053" tvg-name="广东新闻" tvg-logo="-"
+#EXTINF:-1 tvg-id="053" tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/广东新闻.png"
 http://192.168.0.1:1270/udp/239.77.0.173:5146
 
-#EXTINF:-1 tvg-id="060" tvg-name="湖南卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vyc30Q.png"
+#EXTINF:-1 tvg-id="060" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/湖南卫视.png"
 http://192.168.0.1:1270/udp/239.77.0.127:5146
 
-#EXTINF:-1 tvg-id="061" tvg-name="浙江卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VypeBV.png"
+#EXTINF:-1 tvg-id="061" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/浙江卫视.png"
 http://192.168.0.1:1270/udp/239.77.0.89:5146
 
-#EXTINF:-1 tvg-id="062" tvg-name="江苏卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VymDnC.png"
+#EXTINF:-1 tvg-id="062" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/江苏卫视.png"
 http://192.168.0.1:1270/udp/239.77.0.90:5146
 
-#EXTINF:-1 tvg-id="063" tvg-name="北京卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vy3CQL.png"
+#EXTINF:-1 tvg-id="063" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/北京卫视.png"
 http://192.168.0.1:1270/udp/239.77.0.91:5146
 
-#EXTINF:-1 tvg-id="064" tvg-name="深圳卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vypiyq.png"
+#EXTINF:-1 tvg-id="064" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/深圳卫视.png"
 http://192.168.0.1:1270/udp/239.77.0.130:5146
 
-#EXTINF:-1 tvg-id="065" tvg-name="黑龙江卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VyclJv.png"
-http://192.168.0.1:1270/udp/239.77.0.124:5146
-
-#EXTINF:-1 tvg-id="066" tvg-name="湖北卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vyc8bZ.png"
-http://192.168.0.1:1270/udp/239.77.0.95:5146
-
-#EXTINF:-1 tvg-id="067" tvg-name="天津卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VyptWp.png"
-http://192.168.0.1:1270/udp/239.77.0.131:5146
-
-#EXTINF:-1 tvg-id="068" tvg-name="山东卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VymLGJ.png"
-http://192.168.0.1:1270/udp/239.77.0.94:5146
-
-#EXTINF:-1 tvg-id="069" tvg-name="东方卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VyRwdc.png"
+#EXTINF:-1 tvg-id="069" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/东方卫视.png"
 http://192.168.0.1:1270/udp/239.77.0.98:5146
 
-#EXTINF:-1 tvg-id="070" tvg-name="辽宁卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vymxcv.png"
-http://192.168.0.1:1270/udp/239.77.0.123:5146
-
-#EXTINF:-1 tvg-id="071" tvg-name="四川卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vypyqa.png"
-http://192.168.0.1:1270/udp/239.77.0.159:5146
-
-#EXTINF:-1 tvg-id="072" tvg-name="重庆卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VyRlIJ.png"
-http://192.168.0.1:1270/udp/239.77.0.182:5146
-
-#EXTINF:-1 tvg-id="073" tvg-name="安徽卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vy30Fk.png"
-http://192.168.0.1:1270/udp/239.77.0.183:5146
-
-#EXTINF:-1 tvg-id="074" tvg-name="贵州卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VycWaL.png"
-http://192.168.0.1:1270/udp/239.77.0.230:5146
-
-#EXTINF:-1 tvg-id="075" tvg-name="东南卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VyRO2o.png"
-http://192.168.0.1:1270/udp/239.77.0.146:5146
-
-#EXTINF:-1 tvg-id="076" tvg-name="河北卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VycCXU.png"
-http://192.168.0.1:1270/udp/239.77.0.148:5146
-
-#EXTINF:-1 tvg-id="077" tvg-name="江西卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vym3Fa.png"
-http://192.168.0.1:1270/udp/239.77.0.149:5146
-
-#EXTINF:-1 tvg-id="078" tvg-name="吉林卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vymmwk.png"
-http://192.168.0.1:1270/udp/239.77.0.150:5146
-
-#EXTINF:-1 tvg-id="079" tvg-name="广西卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VycUZa.png"
-http://192.168.0.1:1270/udp/239.77.0.139:5146
-
-#EXTINF:-1 tvg-id="080" tvg-name="甘肃卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VyciBd.png"
-http://192.168.0.1:1270/udp/239.77.0.189:5146
-
-#EXTINF:-1 tvg-id="081" tvg-name="河南卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VycH3y.png"
-http://192.168.0.1:1270/udp/239.77.0.17:5146
-
-#EXTINF:-1 tvg-id="082" tvg-name="云南卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VypgeA.png"
-http://192.168.0.1:1270/udp/239.253.43.100:5146
-
-#EXTINF:-1 tvg-id="083" tvg-name="海南卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vyc00p.png"
-http://192.168.0.1:1270/udp/239.253.43.101:5146
-
-#EXTINF:-1 tvg-id="084" tvg-name="三沙卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VymJyX.png"
-http://192.168.0.1:1270/udp/239.253.43.113:5146
-
-#EXTINF:-1 tvg-id="085" tvg-name="陕西卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vym1PN.png"
-http://192.168.0.1:1270/udp/239.77.0.68:5146
-
-#EXTINF:-1 tvg-id="086" tvg-name="山西卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VymYWV.png"
-http://192.168.0.1:1270/udp/239.77.0.69:5146
-
-#EXTINF:-1 tvg-id="087" tvg-name="内蒙古卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VymFqZ.png"
-http://192.168.0.1:1270/udp/239.77.0.70:5146
-
-#EXTINF:-1 tvg-id="088" tvg-name="青海卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vymh7H.png"
-http://192.168.0.1:1270/udp/239.77.0.71:5146
-
-#EXTINF:-1 tvg-id="089" tvg-name="宁夏卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VymdwF.png"
-http://192.168.0.1:1270/udp/239.77.0.73:5146
-
-#EXTINF:-1 tvg-id="090" tvg-name="西藏卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VypOHZ.png"
-http://192.168.0.1:1270/udp/239.77.0.74:5146
-
-#EXTINF:-1 tvg-id="091" tvg-name="新疆卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vyp2u8.png"
-http://192.168.0.1:1270/udp/239.77.0.75:5146
-
-#EXTINF:-1 tvg-id="092" tvg-name="兵团卫视" tvg-logo="https://i.imgloc.com/2023/05/20/Vy32xU.png"
-http://192.168.0.1:1270/udp/239.77.0.77:5146
-
-#EXTINF:-1 tvg-id="093" tvg-name="延边卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VypNpE.png"
-http://192.168.0.1:1270/udp/239.77.0.10:5146
-
-#EXTINF:-1 tvg-id="094" tvg-name="厦门卫视" tvg-logo="https://i.imgloc.com/2023/05/20/VypC43.png"
-http://192.168.0.1:1270/udp/239.77.0.96:5146
-
-#EXTINF:-1 tvg-id="100" tvg-name="纪实人文" tvg-logo="https://i.imgloc.com/2023/05/20/VymBMp.png"
-http://192.168.0.1:1270/udp/239.77.0.147:5146
-
-#EXTINF:-1 tvg-id="101" tvg-name="金鹰纪实" tvg-logo="-"
-http://192.168.0.1:1270/udp/239.77.0.160:5146
-
-#EXTINF:-1 tvg-id="102" tvg-name="求索记录" tvg-logo="https://i.imgloc.com/2023/05/20/VymotE.png"
-http://192.168.0.1:1270/udp/239.77.0.21:5146
-
-#EXTINF:-1 tvg-id="103" tvg-name="精选记录" tvg-logo="-"
-http://192.168.0.1:1270/udp/239.77.0.153:5146
-
-#EXTINF:-1 tvg-id="104" tvg-name="CHC电影" tvg-logo="https://i.imgloc.com/2023/05/20/VyRC4t.png"
-http://192.168.0.1:1270/udp/239.77.0.27:5146
-
-#EXTINF:-1 tvg-id="120" tvg-name="爱电影" tvg-logo="https://i.imgloc.com/2023/05/20/VycpDP.png"
-http://192.168.0.1:1270/udp/239.77.0.103:5146
-
-#EXTINF:-1 tvg-id="121" tvg-name="经典电影" tvg-logo="https://i.imgloc.com/2023/05/20/Vyc96x.png"
-http://192.168.0.1:1270/udp/239.77.0.104:5146
-
-#EXTINF:-1 tvg-id="122" tvg-name="爱大剧" tvg-logo="https://i.imgloc.com/2023/05/20/VyccKC.png"
-http://192.168.0.1:1270/udp/239.77.0.105:5146
-
-#EXTINF:-1 tvg-id="123" tvg-name="热播剧场" tvg-logo="https://i.imgloc.com/2023/05/20/VycLCL.png"
-http://192.168.0.1:1270/udp/239.77.0.106:5146
-
-#EXTINF:-1 tvg-id="124" tvg-name="谍战剧场" tvg-logo="https://i.imgloc.com/2023/05/20/Vyce1o.png"
-http://192.168.0.1:1270/udp/239.77.0.99:5146
-
-#EXTINF:-1 tvg-id="125" tvg-name="相声小品" tvg-logo="https://i.imgloc.com/2023/05/20/VycPLU.png"
-http://192.168.0.1:1270/udp/239.77.0.100:5146
-
-#EXTINF:-1 tvg-id="126" tvg-name="野外" tvg-logo="https://i.imgloc.com/2023/05/20/VycaUv.png"
-http://192.168.0.1:1270/udp/239.77.0.101:5146
-
-#EXTINF:-1 tvg-id="127" tvg-name="法制" tvg-logo="https://i.imgloc.com/2023/05/20/Vycvba.png"
-http://192.168.0.1:1270/udp/239.77.0.102:5146
-
-#EXTINF:-1 tvg-id="130" tvg-name="卡酷卡通" tvg-logo="https://i.imgloc.com/2023/05/20/VymgtU.png"
-http://192.168.0.1:1270/udp/239.77.0.79:5146
-
-#EXTINF:-1 tvg-id="131" tvg-name="炫动卡通" tvg-logo="https://i.imgloc.com/2023/05/20/VypjTH.png"
-http://192.168.0.1:1270/udp/239.77.0.81:5146
-
-#EXTINF:-1 tvg-id="132" tvg-name="优漫卡通" tvg-logo="https://i.imgloc.com/2023/05/20/Vypmht.png"
-http://192.168.0.1:1270/udp/239.77.0.222:5146
-
-#EXTINF:-1 tvg-id="133" tvg-name="嘉佳卡通" tvg-logo="https://i.imgloc.com/2023/05/20/VymZFZ.png"
-http://192.168.0.1:1270/udp/239.77.0.179:5146
-
-#EXTINF:-1 tvg-id="134" tvg-name="金鹰卡通" tvg-logo="-"
-http://192.168.0.1:1270/udp/239.77.0.164:5146
-
-#EXTINF:-1 tvg-id="140" tvg-name="中国交通" tvg-logo="https://i.imgloc.com/2023/05/20/Vypz9d.png"
-http://192.168.0.1:1270/udp/239.77.1.249:5146
-
-#EXTINF:-1 tvg-id="142" tvg-name="财富天下" tvg-logo="https://i.imgloc.com/2023/05/20/Vy3wlp.png"
-http://192.168.0.1:1270/udp/239.77.0.113:5146
-
-#EXTINF:-1 tvg-id="143" tvg-name="早期教育" tvg-logo="https://i.imgloc.com/2023/05/20/VyRWmP.png"
-http://192.168.0.1:1270/udp/239.77.0.180:5146
-
-#EXTINF:-1 tvg-id="144" tvg-name="CETV-1" tvg-logo="https://i.imgloc.com/2023/05/20/VyRA2H.png"
-http://192.168.0.1:1270/udp/239.77.0.200:5146
-
-#EXTINF:-1 tvg-id="145" tvg-name="CETV-2" tvg-logo="https://i.imgloc.com/2023/05/20/VyRD7Q.png"
-http://192.168.0.1:1270/udp/239.77.0.28:5146
-
-#EXTINF:-1 tvg-id="146" tvg-name="CETV-4" tvg-logo="https://i.imgloc.com/2023/05/20/VyRtWC.png"
-http://192.168.0.1:1270/udp/239.253.43.114:5146
-
-#EXTINF:-1 tvg-id="150" tvg-name="经济科教" tvg-logo="-"
+#EXTINF:-1 tvg-id="150" tvg-name="广东经济科教" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/广东经济科教.png"
 http://192.168.0.1:1270/udp/239.77.0.167:5146
 
-#EXTINF:-1 tvg-id="152" tvg-name="广东影视" tvg-logo="-"
+#EXTINF:-1 tvg-id="152" tvg-name="广东影视" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/广东影视.png"
 http://192.168.0.1:1270/udp/239.77.0.217:5146
 
-#EXTINF:-1 tvg-id="153" tvg-name="广东房产" tvg-logo="-"
+#EXTINF:-1 tvg-id="153" tvg-name="广东房产" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/广东房产.png"
 http://192.168.0.1:1270/udp/239.77.0.14:5146
 
-#EXTINF:-1 tvg-id="154" tvg-name="广东民生" tvg-logo="-"
+#EXTINF:-1 tvg-id="154" tvg-name="广东民生" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/广东民生.png"
 http://192.168.0.1:1270/udp/239.77.0.225:5146
 
-#EXTINF:-1 tvg-id="155" tvg-name="广东移动" tvg-logo="-"
-http://192.168.0.1:1270/udp/239.77.0.20:5146
-
-#EXTINF:-1 tvg-id="156" tvg-name="广东少儿" tvg-logo="-"
-http://192.168.0.1:1270/udp/239.77.0.250:5146
-
-#EXTINF:-1 tvg-id="157" tvg-name="广东现代教育" tvg-logo="-"
-http://192.168.0.1:1270/udp/239.77.0.18:5146
-
-#EXTINF:-1 tvg-id="158" tvg-name="岭南戏曲" tvg-logo="-"
-http://192.168.0.1:1270/udp/239.77.0.16:5146
-
-#EXTINF:-1 tvg-id="159" tvg-name="大亚湾卫视" tvg-logo="-"
-http://192.168.0.1:1270/udp/239.77.0.215:5146
-
-#EXTINF:-1 tvg-id="160" tvg-name="汕尾新闻综合" tvg-logo="-"
-http://192.168.0.1:1270/udp/239.77.0.25:5146
-
-#EXTINF:-1 tvg-id="161" tvg-name="汕尾文化生活" tvg-logo="-"
-http://192.168.0.1:1270/udp/239.77.0.187:5146
-
-#EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="-"
+#EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
 http://192.168.0.1:1270/udp/239.253.43.46:5146
 
-#EXTINF:-1 tvg-name="汕头综合" tvg-logo="-"
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
 http://192.168.0.1:1270/udp/239.253.43.45:5146
 
-#EXTINF:-1 tvg-name="汕头文旅体育" tvg-logo="-"
+#EXTINF:-1 tvg-name="汕头文旅体育" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
 http://192.168.0.1:1270/udp/239.253.43.47:5146
+
+#EXTINF:-1 tvg-id="100" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+http://192.168.0.1:1270/udp/239.77.0.147:5146
+
+#EXTINF:-1 tvg-id="101" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+http://192.168.0.1:1270/udp/239.77.0.160:5146
+
+#EXTINF:-1 tvg-id="102" tvg-name="求索记录" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+http://192.168.0.1:1270/udp/239.77.0.21:5146
+
+#EXTINF:-1 tvg-id="103" tvg-name="精选记录" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+http://192.168.0.1:1270/udp/239.77.0.153:5146
+
+#EXTINF:-1 tvg-id="104" tvg-name="CHC电影" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+http://192.168.0.1:1270/udp/239.77.0.27:5146
+
+#EXTINF:-1 tvg-id="120" tvg-name="爱电影" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+http://192.168.0.1:1270/udp/239.77.0.103:5146
+
+#EXTINF:-1 tvg-id="121" tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+http://192.168.0.1:1270/udp/239.77.0.104:5146
+
+#EXTINF:-1 tvg-id="122" tvg-name="爱大剧" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+http://192.168.0.1:1270/udp/239.77.0.105:5146
+
+#EXTINF:-1 tvg-id="123" tvg-name="热播剧场" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+http://192.168.0.1:1270/udp/239.77.0.106:5146
+
+#EXTINF:-1 tvg-id="124" tvg-name="谍战剧场" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+http://192.168.0.1:1270/udp/239.77.0.99:5146
+
+#EXTINF:-1 tvg-id="125" tvg-name="相声小品" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+http://192.168.0.1:1270/udp/239.77.0.100:5146
+
+#EXTINF:-1 tvg-id="126" tvg-name="野外" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+http://192.168.0.1:1270/udp/239.77.0.101:5146
+
+#EXTINF:-1 tvg-id="127" tvg-name="法制" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+http://192.168.0.1:1270/udp/239.77.0.102:5146
+
+#EXTINF:-1 tvg-id="142" tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+http://192.168.0.1:1270/udp/239.77.0.113:5146
