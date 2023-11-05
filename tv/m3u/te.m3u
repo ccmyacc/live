@@ -121,13 +121,13 @@ http://192.168.0.1:1270/udp/239.77.0.14:5146
 #EXTINF:-1 tvg-id="154" tvg-name="广东民生" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/广东民生.png"
 http://192.168.0.1:1270/udp/239.77.0.225:5146
 
-#EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+#EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/汕头经济生活.png"
 http://192.168.0.1:1270/udp/239.253.43.46:5146
 
-#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/汕头综合.png"
 http://192.168.0.1:1270/udp/239.253.43.45:5146
 
-#EXTINF:-1 tvg-name="汕头文旅体育" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
+#EXTINF:-1 tvg-name="汕头文旅体育" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/汕头文旅体育.png"
 http://192.168.0.1:1270/udp/239.253.43.47:5146
 
 #EXTINF:-1 tvg-id="100" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/.png"
