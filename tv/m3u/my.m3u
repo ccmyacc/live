@@ -181,5 +181,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 https://cntv.lat/tv/lhws.php
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://live.fanmingming.com/tv/人间卫视.png" group-title="港澳",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 tvg-name="汕头经济生活" group-title="IPTV-广东地方台",汕头经济生活高清
+rtp://239.253.43.46:5146
 #EXTINF:-1 tvg-name="汕头经济生活" group-title="IPTV-广东地方台",汕头经济生活
-rtp://239.253.43.43:5146
+rtp://239.77.1.131:5146
