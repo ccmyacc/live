@@ -133,23 +133,23 @@ http://192.168.0.1:1270/udp/239.77.0.147:5146
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/金鹰纪实.png"
 http://192.168.0.1:1270/udp/239.77.0.160:5146
 
-#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/求索记录.png"
-http://192.168.0.1:1270/udp/239.77.0.21:5146
-
-#EXTINF:-1 tvg-id="精选记录" tvg-name="精选记录" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/精选记录.png"
-http://192.168.0.1:1270/udp/239.77.0.153:5146
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/凤凰卫视中文台.png"
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/凤凰卫视资讯台.png" group-title="港澳",凤凰资讯
+
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/凤凰卫视资讯台.png"
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/翡翠台.png" group-title="港澳",翡翠台
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/翡翠台.png"
 https://pi.0472.org/tv/fct.php?auth=202311030915
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/明珠台.png" group-title="港澳",明珠台
+
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/明珠台.png"
 https://pi.0472.org/tv/mzt.php?auth=202311030915
-#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/五星体育.png" group-title="数字",五星体育
+
+#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/五星体育.png"
 https://cntv.lat/tv?auth=202311030915&id=wxty
-#EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/劲爆体育.png" group-title="数字",劲爆体育
+
+#EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/劲爆体育.png"
 https://cntv.lat/tv?auth=202311030915&id=jbty
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/东方财经.png" group-title="地方",东方财经
+
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/ccmyacc/live/main/tv/东方财经.png"
 https://cntv.lat/tv?auth=202311030915&id=dfcj
